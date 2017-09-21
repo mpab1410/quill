@@ -779,5 +779,21 @@
     "topper.wku.edu": {
         "school": "Western Kentucky University",
         "state": "Kentucky"
+    },
+    "eku.edu": {
+        "school": "Eastern Kentucky University",
+        "state": "Kentucky"
+    },
+    "kysu.edu": {
+        "school": "Kentucky State University",
+        "state": "Kentucky"
+    },
+    "moreheadstate.edu": {
+        "school": "Morehead State University",
+        "state": "Kentucky"
+    },
+    "nku.edu": {
+        "school": "Northern Kentucky University",
+        "state": "Kentucky"
     }
 }
