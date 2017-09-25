@@ -66,6 +66,7 @@
           Registration Deadline:
         </strong>
         {{ timeClose }}
+          <br>
       </div>
 
       <div
@@ -75,6 +76,7 @@
           Confirmation Deadline:
         </strong>
         {{ timeConfirm }}
+        <br>
       </div>
 
         <div
@@ -113,14 +115,14 @@
           </div>
 
           <div
-            class="ui pink button"
+            class="ui red button"
             ng-show="!user.teamCode"
             ui-sref="app.team">
             Create or join a team
           </div>
 
           <div
-            class="ui pink button"
+            class="ui red button"
             ng-show="user.teamCode"
             ui-sref="app.team">
             View your Team
@@ -155,7 +157,7 @@
           </div>
 
           <div
-            class="ui pink button"
+            class="ui red button"
             ng-show="user.teamCode"
             ui-sref="app.team">
             View your Team
