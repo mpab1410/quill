@@ -1,4 +1,3 @@
-
 {
     "utdallas.edu": {
         "school": "The University of Texas at Dallas",
@@ -133,7 +132,7 @@
         "state": "Massachusetts"
     },
     "vt.edu": {
-        "school": "Virginia Polytechnic Institute and State University",
+        "school": "Virginia Tech",
         "state": "Virginia"
     },
     "u.rochester.edu": {
@@ -605,7 +604,7 @@
         "state": "Maine"
     },
     "buckeyemail.osu.edu": {
-        "school": "Ohio State University-Main Campus",
+        "school": "The Ohio State University",
         "state": "Ohio"
     },
     "umn.edu": {
@@ -797,8 +796,8 @@
         "state": "Kentucky"
     },
     "uky.edu": {
-    "school": "University of Kentucky",
-    "state": "Kentucky"
+        "school": "University of Kentucky",
+        "state": "Kentucky"
     },
 
     "bellarmine.edu": {
@@ -879,5 +878,106 @@
     "monmouthcollege.edu": {
     	"school": "Monmouth College",
     	"state": "Illinois"
+    },
+
+    "pop.belmont.edu": {
+        "school": "Belmont University",
+        "state": "Tennessee"
+    },
+    "nscc.edu": {
+        "school": "Nashville State Community College",
+        "state": "Tennessee"
+    },
+    "my.tnstate.edu": {
+        "school": "Tennessee State University",
+        "state": "Tennessee"
+    },
+    "mail.lipscomb.edu": {
+        "school": "Lipscomb University",
+        "state": "Tennessee"
+    },
+    "mix.wvu.edu": {
+        "school": "West Virginia University",
+        "state": "West Virginia"
+    },
+    "crimson.ua.edu": {
+        "school": "University of Alabama",
+        "state": "Alabama"
+    },
+    "luc.edu": {
+        "school": "Loyola University Chicago",
+        "state": "Illinois"
+    },
+    "bsu.edu": {
+        "school": "Ball State University",
+        "state": "Indiana"
+    },
+    "butler.edu": {
+        "school": "Butler University",
+        "state": "Indiana"
+    },
+    "sycamores.indstate.edu": {
+        "school": "Indiana State University",
+        "state": "Indiana"
+    },
+    "iupui.edu": {
+        "school": "IUPU - Indianapolis",
+        "state": "Indiana"
+    },
+    "evansville.edu": {
+        "school": "University of Evansville",
+        "state": "Indiana"
+    },
+    "uindy.edu": {
+        "school": "University of Indianapolis",
+        "state": "Indiana"
+    },
+    "rockets.utoledo.edu": {
+        "school": "University of Toldeo",
+        "state": "Ohio"
+    },
+    "xavier.edu": {
+        "school": "Xavier University",
+        "state": "Ohio"
+    },
+    "xu.edu": {
+        "school": "Xavier University",
+        "state": "Ohio"
+    },
+    "udayton.edu": {
+        "school": "University of Dayton",
+        "state": "Ohio"
+    },
+    "bgsu.edu": {
+        "school": "Bowlng Green State University",
+        "state": "Ohio"
+    },
+    "vols.utk.edu": {
+        "school": "University of Tennessee, Knoxville",
+        "state": "Tennessee"
+    },
+    "mocs.utc.edu": {
+        "school": "University of Tennessee, Chattanooga",
+        "state": "Tennessee"
+    },
+    "ut.utm.edu": {
+        "school": "University of Tennessee, Martin",
+        "state": "Tennessee"
+    },
+    "memphis.edu": {
+        "school": "University of Memphis",
+        "state": "Tennessee"
+    },
+    "etsu.edu": {
+        "school": "East Tennessee State University",
+        "state": "Tennessee"
+    },
+    "mtmail.mtsu.edu": {
+        "school": "Middle Tennessee State University",
+        "state": "Tennessee"
+    },
+    "apsu.edu": {
+        "school": "Austin Peay State University",
+        "state": "Tennessee"
     }
 }
