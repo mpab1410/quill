@@ -97,7 +97,7 @@
             <th>Grad</th>
             <th>V/S/A/C</th>
             <th>Profile</th>
-            <th>Admit/Check In</th>
+            <th>Admit/ChkIn</th>
           </tr>
         </thead>
         <tbody>
@@ -201,6 +201,12 @@
                   ng-if="user.status.checkedIn"
                   class="green flag icon"></i>
 
+              </button>
+
+              <!-- admin button -->
+              <button ng-click="toggleAdmin($event, user, $index)" class="ui circular mini basic green icon button">
+                <i ng-if="!user.admin" class="spy outline icon"></i>
+                <i ng-if="user.admin" class="green spy icon"></i>
               </button>
 
             </td>

@@ -87,6 +87,14 @@ angular.module('reg')
         return $http.post(base + id + '/checkout');
       },
 
+      //this is to add admins more easily
+      makeAdmin: function(id){
+        return $http.post(base + id + '/makeadmin');
+      },
+        
+      removeAdmin: function(id){
+        return $http.post(base + id + '/removeadmin');
+      },
     };
   }
   ]);
