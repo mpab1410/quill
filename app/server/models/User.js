@@ -63,12 +63,6 @@ var profile = {
     default: false
   },
 
-  adult: {
-    type: Boolean,
-    required: true,
-    default: false
-  },
-
   resume: String
 
 };
