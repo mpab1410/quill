@@ -799,90 +799,85 @@
     "uky.edu": {
     "school": "University of Kentucky",
     "state": "Kentucky"
-},
+    },
 
-"bellarmine.edu": {
-    "school": "Bellarmine University",
-    "state": "Kentucky"
-},
+    "bellarmine.edu": {
+        "school": "Bellarmine University",
+        "state": "Kentucky"
+    },
 
-"centre.edu": {
-    "school": "Centre College",
-    "state": "Kentucky"
-},
+    "centre.edu": {
+        "school": "Centre College",
+        "state": "Kentucky"
+    },
 
-"georgetowncollege.edu": {
-    "school": "Georgetown College",
-    "state": "Kentucky"
-},
+    "georgetowncollege.edu": {
+        "school": "Georgetown College",
+        "state": "Kentucky"
+    },
 
-"georgetowncollege.edu": {
-    "school": "Georgetown College",
-    "state": "Kentucky"
-},
+    "lindsey.edu": {
+    	"school": "Lindsey Wilson College",
+    	"state": "Kentucky"
+    },
 
-"lindsey.edu": {
-	"school": "Lindsey Wilson College"
-	"state": "Kentucky"
-},
+    "midway.edu": {
+    	"school": "Midway University",
+    	"state": "Kentucky"
+    },
 
-"midway.edu": {
-	"school": "Midway University"
-	"state": "Kentucky"
-},
+    "transy.edu": {
+    	"school": "Transylvania University",
+    	"state": "Kentucky"
+    },
 
-"transy.edu": {
-	"school": "Transylvania University"
-	"state": "Kentucky"
-},
+    "unionky.edu": {
+    	"school": "Union College",
+    	"state": "Kentucky"
+    },
 
-"unionky.edu": {
-	"school": "Union College"
-	"state": "Kentucky"
-},
+    "ucumberlands.edu": {
+    	"school": "University of the Cumberlands",
+    	"state": "Kentucky"
+    },
 
-"ucumberlands.edu": {
-	"school": "University of the Cumberlands"
-	"state": "Kentucky"
-},
+    "upike.edu": {
+    	"school": "University of Pikeville",
+    	"state": "Kentucky"
+    },
 
-"upike.edu": {
-	"school": "University of Pikeville"
-	"state": "Kentucky"
-},
+    "students.campbellsville.edu": {
+    	"school": "Campbellsville University",
+    	"state": "Kentucky"
+    },
 
-"students.campbellsville.edu": {
-	"school": "Campbellsville University"
-	"state": "Kentucky"
-},
+    "kcu.edu": {
+    	"school": "Kentucky Christian University",
+    	"state": "Kentucky"
+    },
 
-"kcu.edu": {
-	"school": "Kentucky Christian University"
-	"state": "Kentucky"
-},
+    "kctcs.edu": {
+    	"school": "Kentucky Community and Technical College System",
+    	"state": "Kentucky"
+    },
 
-"kctcs.edu": {
-	"school": "Kentucky Community and Technical College System"
-	"state": "Kentucky"
-},
+    "wiu.edu": {
+    	"school": "Western Illinois University",
+    	"state": "Illinois"
+    },
 
-"wiu.edu": {
-	"school": "Western Illinois University"
-	"state": "Illinois"
-},
+    "siu.edu": {
+    	"school": "Southern Illinois University",
+    	"state": "Illinois"
+    },
 
-"siu.edu": {
-	"school": "Southern Illinois University"
-	"state": "Illinois"
-},
+    "illinoisstate.edu": {
+    	"school": "Illinois State University",
+    	"state": "Illinois"
+    },
 
-"illinoisstate.edu": {
-	"school": "Illinois State University"
-	"state": "Illinois"
-},
-
-"monmouthcollege.edu": {
-	"school": "Monmouth College"
-	"state": "Illinois"
-},
+    "monmouthcollege.edu": {
+    	"school": "Monmouth College",
+    	"state": "Illinois"
+    }
 }
