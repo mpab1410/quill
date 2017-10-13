@@ -111,6 +111,24 @@ angular.module('reg')
                   prompt: 'You must confirm that you uploaded a resume.'
                 }
               ]
+            },
+            mlh: {
+              identifier: 'mlh',
+              rules: [
+                {
+                  type: 'checked',
+                  prompt: 'Please confirm you have read the MLH Code of Conduct and the MLH Data Sharing Provision.'
+                }
+              ]
+            },
+            hthconduct: {
+              identifier: 'hthconduct',
+              rules: [
+                {
+                  type: 'checked',
+                  prompt: 'Please confirm you have read the Hack the Hill Code of Conduct.'
+                }
+              ]
             }
           }
         });
