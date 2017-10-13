@@ -234,6 +234,10 @@ angular.module('reg')
               },{
                 name: 'Github',
                 value: user.profile.github
+              },{
+                name: 'Resume',
+                value: user.profile.resume,
+                type: 'boolean'
               }
             ]
           },{
