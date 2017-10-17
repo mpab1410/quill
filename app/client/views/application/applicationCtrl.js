@@ -85,6 +85,15 @@ angular.module('reg')
                 }
               ]
             },
+            dateofbirth: {
+              identifier: 'dateofbirth',
+              rules: [
+                {
+                  type: 'empty',
+                  prompt: 'Please enter your date of birth'
+                }
+              ]
+            },
             year: {
               identifier: 'year',
               rules: [
